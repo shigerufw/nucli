@@ -1,0 +1,6 @@
+Field,Type,Null,Key,Default,Extra
+orderNumber,int,NO,PRI,,
+productCode,varchar(15),NO,PRI,,
+quantityOrdered,int,NO,,,
+priceEach,"decimal(10,2)",NO,,,
+orderLineNumber,smallint,NO,,,

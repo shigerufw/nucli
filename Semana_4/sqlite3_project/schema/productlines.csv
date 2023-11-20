@@ -1,0 +1,5 @@
+Field,Type,Null,Key,Default,Extra
+productLine,varchar(50),NO,PRI,,
+textDescription,varchar(4000),YES,,,
+htmlDescription,mediumtext,YES,,,
+image,mediumblob,YES,,,

@@ -1,0 +1,8 @@
+Field,Type,Null,Key,Default,Extra
+orderNumber,int,NO,PRI,,
+orderDate,date,NO,,,
+requiredDate,date,NO,,,
+shippedDate,date,YES,,,
+status,varchar(15),NO,,,
+comments,text,YES,,,
+customerNumber,int,NO,MUL,,

@@ -1,0 +1,5 @@
+Field,Type,Null,Key,Default,Extra
+review_id,int,NO,PRI,,
+customerNumber,int,YES,MUL,,
+productCode,varchar(15),YES,MUL,,
+stars,bigint,YES,,,
