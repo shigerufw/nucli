@@ -1,0 +1,10 @@
+Field,Type,Null,Key,Default,Extra
+officeCode,varchar(10),NO,PRI,,
+city,varchar(50),NO,,,
+phone,varchar(50),NO,,,
+addressLine1,varchar(50),NO,,,
+addressLine2,varchar(50),YES,,,
+state,varchar(50),YES,,,
+country,varchar(50),NO,,,
+postalCode,varchar(15),NO,,,
+territory,varchar(10),NO,,,

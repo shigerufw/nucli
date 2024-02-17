@@ -1,0 +1,5 @@
+Field,Type,Null,Key,Default,Extra
+customerNumber,int,NO,PRI,,
+checkNumber,varchar(50),NO,PRI,,
+paymentDate,date,NO,,,
+amount,"decimal(10,2)",NO,,,

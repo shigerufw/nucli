@@ -1,0 +1,10 @@
+Field,Type,Null,Key,Default,Extra
+productCode,varchar(15),NO,PRI,,
+productName,varchar(70),NO,,,
+productLine,varchar(50),NO,MUL,,
+productScale,varchar(10),NO,,,
+productVendor,varchar(50),NO,,,
+productDescription,text,NO,,,
+quantityInStock,smallint,NO,,,
+buyPrice,"decimal(10,2)",NO,,,
+MSRP,"decimal(10,2)",NO,,,
